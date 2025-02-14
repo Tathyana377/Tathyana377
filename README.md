@@ -1,5 +1,5 @@
 - 👋Hi, I'm @Tathyana377
-- 👀 I’m interested in mathematics
+- 👀 I’m Python Developer
 - 🌱 I’m currently learning Python, SQL (basic - Java, JavaScript, C#)
 - 💞️ I’m looking to collaborate on programming and math
 
